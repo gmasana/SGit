@@ -7,4 +7,6 @@ Contenidos vistos durante la primer clase
 Configuro mi entorno de trabajo. Esto lo hago por unica vez para cada usuario.
     git config --global user.name <myusername>
     git config --global user.email <myemail>
-    
+
+
+Nuevo cambio para probar git commit
